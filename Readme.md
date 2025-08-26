@@ -2,6 +2,7 @@
   1. Data Required
       - Genome file
         - Arabidopsis (Genome: TAIR10, GTF: Araport11)
+        - TF info (https://github.com/VIB-PSB/MINI-EX/tree/main/data/ath)
   2. Softwares Required
       - CellRanger (Used for processing 10x raw data)
       - scanpy  (Used for downstream analysis of 10X data)
