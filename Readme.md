@@ -18,7 +18,7 @@
 
 ### Preprocessing
 1. Get 10X cell-gene matrix using Cell Ranger
-
+2. Based on the scripts used in the jupyter notebook to process the 10X gene matrix.
 ### Analysis
 
 These jupyter files contains the scripts needed for downstream analysis. Github often fails to preview large jupyter files, so you can preview these files using [nbviewer](https://nbviewer.org/github/ZhaiLab-SUSTech/single_cell_hormones/tree/main/). 
