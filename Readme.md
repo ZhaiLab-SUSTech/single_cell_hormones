@@ -22,8 +22,3 @@
 ### Analysis
 
 These jupyter files contains the scripts needed for downstream analysis. Github often fails to preview large jupyter files, so you can preview these files using [nbviewer](https://nbviewer.org/github/ZhaiLab-SUSTech/single_cell_hormones/tree/main/). 
-
-## Others
-- The gene expression pattern can be explored at our [website](https://zhailab.bio.sustech.edu.cn/single_cell_hormone/)
-  - If you found any bugs in our website, please reported [here](https://github.com/ZhaiLab-SUSTech/single_cell_hormones/issues/new)
-
