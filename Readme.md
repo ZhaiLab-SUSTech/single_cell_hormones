@@ -2,7 +2,8 @@
   1. Data Required
       - Genome file
         - Arabidopsis (Genome: TAIR10, GTF: Araport11)
-        - TF info (https://github.com/VIB-PSB/MINI-EX/tree/main/data/ath)
+     - TF info (https://github.com/VIB-PSB/MINI-EX/tree/main/data/ath)
+    - Raw sequencing data, which can be accessed at NGDC database.
   2. Softwares Required
 
 > **Dependency management**
@@ -33,7 +34,7 @@
 
 ### Preprocessing
 1. Get 10X cell-gene matrix using Cell Ranger. 
-2. Based on the scripts used in the jupyter notebook to process the 10X gene matrix.
+2. Based on the scripts used in the jupyter notebook to process the 10X gene matrix. All required external resources are annotated in the notebook.
 ### Analysis
 
 These jupyter files contains the scripts needed for downstream analysis. Github often fails to preview large jupyter files, so you can preview these files using [nbviewer](https://nbviewer.org/github/ZhaiLab-SUSTech/single_cell_hormones/tree/main/). 
