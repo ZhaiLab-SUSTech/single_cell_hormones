@@ -1,9 +1,8 @@
 ## Requirments
   1. Data Required
-      - Genome file
-        - Arabidopsis (Genome: TAIR10, GTF: Araport11)
+      - Genome file Arabidopsis (Genome: TAIR10, GTF: Araport11)
      - TF info (https://github.com/VIB-PSB/MINI-EX/tree/main/data/ath)
-    - Raw sequencing data, which can be accessed at NGDC database.
+     - Raw sequencing data, which can be accessed at NGDC database.
   2. Softwares Required
 
 > **Dependency management**
