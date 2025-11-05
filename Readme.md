@@ -5,8 +5,6 @@
      - Raw sequencing data, which can be accessed at NGDC database.
   2. Softwares Required
 
-**Dependency management**
-
 Except for **`miniex`**, all required dependencies **and their pinned versions** are specified in the **[`jpy_tools`](https://github.com/liuzj039/jpy_tools/tree/master/jModule)** requirements file. Installing `jpy_tools` will pull in everything else automatically. Please install **`miniex`** separately.
 
 
